@@ -1,5 +1,11 @@
-# Project Name : renTrend
+# Project Name : RenTrend
 This is a student project during academic year 2020
+
+An e-commerce web application that has a multi-vendor feature.
+
+Deployed live in : https://rentrend-marl-squirrel.herokuapp.com/
+
+![HomePage](Images/home.JPG)
 
 ## Team Name : Squirrel Tech
 ## Team Members
@@ -10,7 +16,6 @@ This is a student project during academic year 2020
 * Shikha Goyal
 * Sukhdeep Kaur Sandhu
 
-Deployed live in : https://rentrend-marl-squirrel.herokuapp.com/
 
 ## Technology
 ### MERN 
