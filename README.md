@@ -1,7 +1,7 @@
 # Project Name : RenTrend
 This is a student project during academic year 2020
 
-An e-commerce web application that has a multi-vendor feature.
+An e-commerce web application using MERN Technologies.
 
 Deployed live in : https://rentrend-marl-squirrel.herokuapp.com/
 
